@@ -1,0 +1,324 @@
+User_Input,Intent,Response
+Can you tell me about the temperature requirements of Bitter Melon or Bitter Gourd?,temperature_requirements_info,The temperature requirements is: 20-30.
+Can you tell me about the soil type of Bitter Melon or Bitter Gourd?,soil_type_info,The soil type is: Loamy/Sandy Loam.
+Can you tell me about the sunlight needs of Bitter Melon or Bitter Gourd?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Bitter Melon or Bitter Gourd?,soil_pH_info,The soil ph is: 5.5-6.5.
+Can you tell me about the harvest season of Bitter Melon or Bitter Gourd?,harvest_season_info,The harvest season is: June-September.
+Can you tell me about the growing duration of Bitter Melon or Bitter Gourd?,growing_duration_info,The growing duration is: 70-90.
+Can you tell me about the common diseases of Bitter Melon or Bitter Gourd?,common_diseases_info,"The common diseases is: Powdery Mildew, Anthracnose, Bacterial Wilt."
+Can you tell me about the nutritional information of Bitter Melon or Bitter Gourd?,nutritional_information_info,The nutritional information is: 20 calories per 100g.
+Can you tell me about the temperature requirements of Tomato?,temperature_requirements_info,The temperature requirements is: 20-25.
+Can you tell me about the soil type of Tomato?,soil_type_info,The soil type is: Loamy soil.
+Can you tell me about the sunlight needs of Tomato?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Tomato?,soil_pH_info,The soil ph is: 6.0-7.0.
+Can you tell me about the harvest season of Tomato?,harvest_season_info,The harvest season is: October-December/March-May.
+Can you tell me about the growing duration of Tomato?,growing_duration_info,The growing duration is: 55-85.
+Can you tell me about the common diseases of Tomato?,common_diseases_info,"The common diseases is: Late Blight, Fusarium Wilt, Bacterial Canker."
+Can you tell me about the nutritional information of Tomato?,nutritional_information_info,The nutritional information is: 18 calories per 100g.
+Can you tell me about the temperature requirements of Squash?,temperature_requirements_info,The temperature requirements is: 20-30.
+Can you tell me about the soil type of Squash?,soil_type_info,The soil type is: Loamy/Sandy Loam.
+Can you tell me about the sunlight needs of Squash?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Squash?,soil_pH_info,The soil ph is: 6.0-7.5.
+Can you tell me about the harvest season of Squash?,harvest_season_info,The harvest season is: August-October.
+Can you tell me about the growing duration of Squash?,growing_duration_info,The growing duration is: 75-100.
+Can you tell me about the common diseases of Squash?,common_diseases_info,"The common diseases is: Powdery Mildew, Anthracnose, Gummy Stem Blight."
+Can you tell me about the nutritional information of Squash?,nutritional_information_info,The nutritional information is: 26 calories per 100g.
+Can you tell me about the temperature requirements of Bottle Gourd?,temperature_requirements_info,The temperature requirements is: 20-30.
+Can you tell me about the soil type of Bottle Gourd?,soil_type_info,The soil type is: Loamy/Sandy Loam.
+Can you tell me about the sunlight needs of Bottle Gourd?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Bottle Gourd?,soil_pH_info,The soil ph is: 5.5-6.5.
+Can you tell me about the harvest season of Bottle Gourd?,harvest_season_info,The harvest season is: June-September.
+Can you tell me about the growing duration of Bottle Gourd?,growing_duration_info,The growing duration is: 60-90.
+Can you tell me about the common diseases of Bottle Gourd?,common_diseases_info,"The common diseases is: Powdery Mildew, Cercospora Leaf Spot, Anthracnose."
+Can you tell me about the nutritional information of Bottle Gourd?,nutritional_information_info,The nutritional information is: 14 calories per 100g.
+Can you tell me about the temperature requirements of Chili Pepper?,temperature_requirements_info,The temperature requirements is: 20-30.
+Can you tell me about the soil type of Chili Pepper?,soil_type_info,The soil type is: Loamy soil.
+Can you tell me about the sunlight needs of Chili Pepper?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Chili Pepper?,soil_pH_info,The soil ph is: 6.0-7.0.
+Can you tell me about the harvest season of Chili Pepper?,harvest_season_info,The harvest season is: July-October.
+Can you tell me about the growing duration of Chili Pepper?,growing_duration_info,The growing duration is: 60-90.
+Can you tell me about the common diseases of Chili Pepper?,common_diseases_info,"The common diseases is: Bacterial Spot, Powdery Mildew, Anthracnose."
+Can you tell me about the nutritional information of Chili Pepper?,nutritional_information_info,The nutritional information is: 40 calories per 100g.
+Can you tell me about the temperature requirements of String Bean or Yardlong Bean?,temperature_requirements_info,The temperature requirements is: 20-30.
+Can you tell me about the soil type of String Bean or Yardlong Bean?,soil_type_info,The soil type is: Loamy/Sandy Loam.
+Can you tell me about the sunlight needs of String Bean or Yardlong Bean?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of String Bean or Yardlong Bean?,soil_pH_info,The soil ph is: 6.0-7.0.
+Can you tell me about the harvest season of String Bean or Yardlong Bean?,harvest_season_info,The harvest season is: June-August.
+Can you tell me about the growing duration of String Bean or Yardlong Bean?,growing_duration_info,The growing duration is: 50-70.
+Can you tell me about the common diseases of String Bean or Yardlong Bean?,common_diseases_info,"The common diseases is: Angular Leaf Spot, Rusts, Powdery Mildew."
+Can you tell me about the nutritional information of String Bean or Yardlong Bean?,nutritional_information_info,The nutritional information is: 31 calories per 100g.
+Can you tell me about the temperature requirements of Eggplant?,temperature_requirements_info,The temperature requirements is: 22-30.
+Can you tell me about the soil type of Eggplant?,soil_type_info,The soil type is: Loamy.
+Can you tell me about the sunlight needs of Eggplant?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Eggplant?,soil_pH_info,The soil ph is: 6.0-7.0.
+Can you tell me about the harvest season of Eggplant?,harvest_season_info,The harvest season is: July-October.
+Can you tell me about the growing duration of Eggplant?,growing_duration_info,The growing duration is: 70-80.
+Can you tell me about the common diseases of Eggplant?,common_diseases_info,"The common diseases is: Fusarium Wilt, Bacterial Wilt, Anthracnose."
+Can you tell me about the nutritional information of Eggplant?,nutritional_information_info,The nutritional information is: 25 calories per 100g.
+Can you tell me about the temperature requirements of Ridge Gourd or Sponge Gourd?,temperature_requirements_info,The temperature requirements is: 20-30.
+Can you tell me about the soil type of Ridge Gourd or Sponge Gourd?,soil_type_info,The soil type is: Loamy/Sandy Loam.
+Can you tell me about the sunlight needs of Ridge Gourd or Sponge Gourd?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Ridge Gourd or Sponge Gourd?,soil_pH_info,The soil ph is: 6.0-7.0.
+Can you tell me about the harvest season of Ridge Gourd or Sponge Gourd?,harvest_season_info,The harvest season is: June-September.
+Can you tell me about the growing duration of Ridge Gourd or Sponge Gourd?,growing_duration_info,The growing duration is: 60-90.
+Can you tell me about the common diseases of Ridge Gourd or Sponge Gourd?,common_diseases_info,"The common diseases is: Powdery Mildew, Cercospora Leaf Spot."
+Can you tell me about the nutritional information of Ridge Gourd or Sponge Gourd?,nutritional_information_info,The nutritional information is: 20 calories per 100g.
+Can you tell me about the temperature requirements of Okra or Lady Finger?,temperature_requirements_info,The temperature requirements is: 25-35.
+Can you tell me about the soil type of Okra or Lady Finger?,soil_type_info,The soil type is: Sandy Loam/Loamy soil.
+Can you tell me about the sunlight needs of Okra or Lady Finger?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Okra or Lady Finger?,soil_pH_info,The soil ph is: 6.0-7.0.
+Can you tell me about the harvest season of Okra or Lady Finger?,harvest_season_info,The harvest season is: July-September.
+Can you tell me about the growing duration of Okra or Lady Finger?,growing_duration_info,The growing duration is: 50-60.
+Can you tell me about the common diseases of Okra or Lady Finger?,common_diseases_info,"The common diseases is: Powdery Mildew, Yellow Vein Mosaic Virus."
+Can you tell me about the nutritional information of Okra or Lady Finger?,nutritional_information_info,The nutritional information is: 33 calories per 100g.
+Can you tell me about the temperature requirements of Chinese Cabbage or Bok Choy?,temperature_requirements_info,The temperature requirements is: 15-20.
+Can you tell me about the soil type of Chinese Cabbage or Bok Choy?,soil_type_info,The soil type is: Loamy soil.
+Can you tell me about the sunlight needs of Chinese Cabbage or Bok Choy?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Chinese Cabbage or Bok Choy?,soil_pH_info,The soil ph is: 6.0-7.5.
+Can you tell me about the harvest season of Chinese Cabbage or Bok Choy?,harvest_season_info,The harvest season is: October-February.
+Can you tell me about the growing duration of Chinese Cabbage or Bok Choy?,growing_duration_info,The growing duration is: 30-50.
+Can you tell me about the common diseases of Chinese Cabbage or Bok Choy?,common_diseases_info,"The common diseases is: Downy Mildew, Clubroot."
+Can you tell me about the nutritional information of Chinese Cabbage or Bok Choy?,nutritional_information_info,The nutritional information is: 13 calories per 100g.
+Can you tell me about the temperature requirements of Mustard Greens?,temperature_requirements_info,The temperature requirements is: 15-20.
+Can you tell me about the soil type of Mustard Greens?,soil_type_info,The soil type is: Loamy soil.
+Can you tell me about the sunlight needs of Mustard Greens?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Mustard Greens?,soil_pH_info,The soil ph is: 6.0-7.5.
+Can you tell me about the harvest season of Mustard Greens?,harvest_season_info,The harvest season is: October-February.
+Can you tell me about the growing duration of Mustard Greens?,growing_duration_info,The growing duration is: 30-50.
+Can you tell me about the common diseases of Mustard Greens?,common_diseases_info,The common diseases is: Downy Mildew.
+Can you tell me about the nutritional information of Mustard Greens?,nutritional_information_info,The nutritional information is: 27 calories per 100g.
+Can you tell me about the temperature requirements of Cucumber?,temperature_requirements_info,The temperature requirements is: 18-24.
+Can you tell me about the soil type of Cucumber?,soil_type_info,The soil type is: Sandy Loam/Loamy soil.
+Can you tell me about the sunlight needs of Cucumber?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Cucumber?,soil_pH_info,The soil ph is: 6.0-7.0.
+Can you tell me about the harvest season of Cucumber?,harvest_season_info,The harvest season is: July-September.
+Can you tell me about the growing duration of Cucumber?,growing_duration_info,The growing duration is: 50-70.
+Can you tell me about the common diseases of Cucumber?,common_diseases_info,"The common diseases is: Powdery Mildew, Cucumber Mosaic Virus."
+Can you tell me about the nutritional information of Cucumber?,nutritional_information_info,The nutritional information is: 16 calories per 100g.
+Can you tell me about the temperature requirements of Orange or Native Mandarin?,temperature_requirements_info,The temperature requirements is: 25-15.
+Can you tell me about the soil type of Orange or Native Mandarin?,soil_type_info,The soil type is: Sandy Loam/ Clay Loam.
+Can you tell me about the sunlight needs of Orange or Native Mandarin?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Orange or Native Mandarin?,soil_pH_info,The soil ph is: 6.0-7.5.
+Can you tell me about the harvest season of Orange or Native Mandarin?,harvest_season_info,The harvest season is: November-March.
+Can you tell me about the growing duration of Orange or Native Mandarin?,growing_duration_info,The growing duration is: 240-365.
+Can you tell me about the common diseases of Orange or Native Mandarin?,common_diseases_info,The common diseases is: Citrus Canker.
+Can you tell me about the nutritional information of Orange or Native Mandarin?,nutritional_information_info,The nutritional information is: 47 calories per 100g.
+Can you tell me about the temperature requirements of Langsat or Lanzones?,temperature_requirements_info,The temperature requirements is: 25-35.
+Can you tell me about the soil type of Langsat or Lanzones?,soil_type_info,The soil type is: Loamy/Sandy soils.
+Can you tell me about the sunlight needs of Langsat or Lanzones?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Langsat or Lanzones?,soil_pH_info,The soil ph is: 5.5-6.5.
+Can you tell me about the harvest season of Langsat or Lanzones?,harvest_season_info,The harvest season is: September-November.
+Can you tell me about the growing duration of Langsat or Lanzones?,growing_duration_info,The growing duration is: 1825-2555.
+Can you tell me about the common diseases of Langsat or Lanzones?,common_diseases_info,The common diseases is: Fruit Rot.
+Can you tell me about the nutritional information of Langsat or Lanzones?,nutritional_information_info,The nutritional information is: 73 calories per 100g.
+Can you tell me about the temperature requirements of Calamondin or Philippine Lime?,temperature_requirements_info,The temperature requirements is: 20-30.
+Can you tell me about the soil type of Calamondin or Philippine Lime?,soil_type_info,The soil type is: Sandy Loam/ Clay Loam.
+Can you tell me about the sunlight needs of Calamondin or Philippine Lime?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Calamondin or Philippine Lime?,soil_pH_info,The soil ph is: 5.5-6.5.
+Can you tell me about the harvest season of Calamondin or Philippine Lime?,harvest_season_info,The harvest season is: April-June.
+Can you tell me about the growing duration of Calamondin or Philippine Lime?,growing_duration_info,The growing duration is: 730-1095.
+Can you tell me about the common diseases of Calamondin or Philippine Lime?,common_diseases_info,"The common diseases is: Citrus Canker, Root Rot."
+Can you tell me about the nutritional information of Calamondin or Philippine Lime?,nutritional_information_info,The nutritional information is: 30 calories per 100g.
+Can you tell me about the temperature requirements of Rambutan?,temperature_requirements_info,The temperature requirements is: 25-35.
+Can you tell me about the soil type of Rambutan?,soil_type_info,The soil type is: Sandy Loam/ Clay Loam.
+Can you tell me about the sunlight needs of Rambutan?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Rambutan?,soil_pH_info,The soil ph is: 5.5-6.5.
+Can you tell me about the harvest season of Rambutan?,harvest_season_info,The harvest season is: May-June.
+Can you tell me about the growing duration of Rambutan?,growing_duration_info,The growing duration is: 1825-2555.
+Can you tell me about the common diseases of Rambutan?,common_diseases_info,"The common diseases is: Anthracnose, Fruit Rot."
+Can you tell me about the nutritional information of Rambutan?,nutritional_information_info,The nutritional information is: 68 calories per 100g.
+Can you tell me about the temperature requirements of Banana?,temperature_requirements_info,The temperature requirements is: 26-30.
+Can you tell me about the soil type of Banana?,soil_type_info,The soil type is: Loamy/Sandy Loam.
+Can you tell me about the sunlight needs of Banana?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Banana?,soil_pH_info,The soil ph is: 5.5-7.0.
+Can you tell me about the harvest season of Banana?,harvest_season_info,The harvest season is: March-May.
+Can you tell me about the growing duration of Banana?,growing_duration_info,The growing duration is: 270-365.
+Can you tell me about the common diseases of Banana?,common_diseases_info,"The common diseases is: Panama Disease, Black Sigatoka."
+Can you tell me about the nutritional information of Banana?,nutritional_information_info,The nutritional information is: 89 calories per 100g.
+Can you tell me about the temperature requirements of Mango?,temperature_requirements_info,The temperature requirements is: 24-30.
+Can you tell me about the soil type of Mango?,soil_type_info,The soil type is: Sandy Loam/ Clay Loam.
+Can you tell me about the sunlight needs of Mango?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Mango?,soil_pH_info,The soil ph is: 5.5-7.0.
+Can you tell me about the harvest season of Mango?,harvest_season_info,The harvest season is: April-June.
+Can you tell me about the growing duration of Mango?,growing_duration_info,The growing duration is: 1095-1825.
+Can you tell me about the common diseases of Mango?,common_diseases_info,"The common diseases is: Anthracnose, Mango Sudden Decline."
+Can you tell me about the nutritional information of Mango?,nutritional_information_info,The nutritional information is: 60 calories per 100g.
+Can you tell me about the temperature requirements of Coffee?,temperature_requirements_info,The temperature requirements is: 15-24.
+Can you tell me about the soil type of Coffee?,soil_type_info,The soil type is: Loamy/Volcanic soils.
+Can you tell me about the sunlight needs of Coffee?,sunlight_needs_info,The sunlight needs is: Partial Sun.
+Can you tell me about the soil pH of Coffee?,soil_pH_info,The soil ph is: 6.0-6.5.
+Can you tell me about the harvest season of Coffee?,harvest_season_info,The harvest season is: September-March.
+Can you tell me about the growing duration of Coffee?,growing_duration_info,The growing duration is: 1095-1460.
+Can you tell me about the common diseases of Coffee?,common_diseases_info,The common diseases is: Coffee Rust.
+Can you tell me about the nutritional information of Coffee?,nutritional_information_info,The nutritional information is: 2 calories per 100g.
+Can you tell me about the temperature requirements of Cassava?,temperature_requirements_info,The temperature requirements is: 25-35.
+Can you tell me about the soil type of Cassava?,soil_type_info,The soil type is: Sandy Loam/ Clayey soils.
+Can you tell me about the sunlight needs of Cassava?,sunlight_needs_info,The sunlight needs is: Full Sun.
+Can you tell me about the soil pH of Cassava?,soil_pH_info,The soil ph is: 5.5-7.0.
+Can you tell me about the harvest season of Cassava?,harvest_season_info,The harvest season is: March-May.
+Can you tell me about the growing duration of Cassava?,growing_duration_info,The growing duration is: 240-720.
+Can you tell me about the common diseases of Cassava?,common_diseases_info,The common diseases is: Cassava Mosaic Disease.
+Can you tell me about the nutritional information of Cassava?,nutritional_information_info,The nutritional information is: 160 calories per 100g.
+What are the health benefits of eating Bitter Melon or Bitter Gourd?,specific_info,Bitter Melon or Bitter Gourd is rich in nutrients and offers various health benefits.
+How do I grow Bitter Melon or Bitter Gourd at home?,specific_info,"To grow Bitter Melon or Bitter Gourd, use Loamy/Sandy Loam soil, maintain a pH of 5.5-6.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Bitter Melon or Bitter Gourd?,specific_info,"Bitter Melon or Bitter Gourd can be used to make soups, stews, and salads."
+How do I know when Bitter Melon or Bitter Gourd is ready to harvest?,specific_info,Bitter Melon or Bitter Gourd is usually ready to harvest in 70-90 days.
+How many calories does Bitter Melon or Bitter Gourd have per serving?,specific_info,Bitter Melon or Bitter Gourd contains 20 calories per 100g.
+Is Bitter Melon or Bitter Gourd considered a fruit or a vegetable?,specific_info,Bitter Melon or Bitter Gourd is classified as a vegetable.
+What are the health benefits of eating Tomato?,specific_info,Tomato is rich in nutrients and offers various health benefits.
+How do I grow Tomato at home?,specific_info,"To grow Tomato, use Loamy soil soil, maintain a pH of 6.0-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Tomato?,specific_info,"Tomato can be used to make soups, stews, and salads."
+How do I know when Tomato is ready to harvest?,specific_info,Tomato is usually ready to harvest in 55-85 days.
+How many calories does Tomato have per serving?,specific_info,Tomato contains 18 calories per 100g.
+Is Tomato considered a fruit or a vegetable?,specific_info,Tomato is classified as a vegetable.
+What are the health benefits of eating Squash?,specific_info,Squash is rich in nutrients and offers various health benefits.
+How do I grow Squash at home?,specific_info,"To grow Squash, use Loamy/Sandy Loam soil, maintain a pH of 6.0-7.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Squash?,specific_info,"Squash can be used to make soups, stews, and salads."
+How do I know when Squash is ready to harvest?,specific_info,Squash is usually ready to harvest in 75-100 days.
+How many calories does Squash have per serving?,specific_info,Squash contains 26 calories per 100g.
+Is Squash considered a fruit or a vegetable?,specific_info,Squash is classified as a vegetable.
+What are the health benefits of eating Bottle Gourd?,specific_info,Bottle Gourd is rich in nutrients and offers various health benefits.
+How do I grow Bottle Gourd at home?,specific_info,"To grow Bottle Gourd, use Loamy/Sandy Loam soil, maintain a pH of 5.5-6.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Bottle Gourd?,specific_info,"Bottle Gourd can be used to make soups, stews, and salads."
+How do I know when Bottle Gourd is ready to harvest?,specific_info,Bottle Gourd is usually ready to harvest in 60-90 days.
+How many calories does Bottle Gourd have per serving?,specific_info,Bottle Gourd contains 14 calories per 100g.
+Is Bottle Gourd considered a fruit or a vegetable?,specific_info,Bottle Gourd is classified as a vegetable.
+What are the health benefits of eating Chili Pepper?,specific_info,Chili Pepper is rich in nutrients and offers various health benefits.
+How do I grow Chili Pepper at home?,specific_info,"To grow Chili Pepper, use Loamy soil soil, maintain a pH of 6.0-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Chili Pepper?,specific_info,"Chili Pepper can be used to make soups, stews, and salads."
+How do I know when Chili Pepper is ready to harvest?,specific_info,Chili Pepper is usually ready to harvest in 60-90 days.
+How many calories does Chili Pepper have per serving?,specific_info,Chili Pepper contains 40 calories per 100g.
+Is Chili Pepper considered a fruit or a vegetable?,specific_info,Chili Pepper is classified as a vegetable.
+What are the health benefits of eating String Bean or Yardlong Bean?,specific_info,String Bean or Yardlong Bean is rich in nutrients and offers various health benefits.
+How do I grow String Bean or Yardlong Bean at home?,specific_info,"To grow String Bean or Yardlong Bean, use Loamy/Sandy Loam soil, maintain a pH of 6.0-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with String Bean or Yardlong Bean?,specific_info,"String Bean or Yardlong Bean can be used to make soups, stews, and salads."
+How do I know when String Bean or Yardlong Bean is ready to harvest?,specific_info,String Bean or Yardlong Bean is usually ready to harvest in 50-70 days.
+How many calories does String Bean or Yardlong Bean have per serving?,specific_info,String Bean or Yardlong Bean contains 31 calories per 100g.
+Is String Bean or Yardlong Bean considered a fruit or a vegetable?,specific_info,String Bean or Yardlong Bean is classified as a vegetable.
+What are the health benefits of eating Eggplant?,specific_info,Eggplant is rich in nutrients and offers various health benefits.
+How do I grow Eggplant at home?,specific_info,"To grow Eggplant, use Loamy soil, maintain a pH of 6.0-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Eggplant?,specific_info,"Eggplant can be used to make soups, stews, and salads."
+How do I know when Eggplant is ready to harvest?,specific_info,Eggplant is usually ready to harvest in 70-80 days.
+How many calories does Eggplant have per serving?,specific_info,Eggplant contains 25 calories per 100g.
+Is Eggplant considered a fruit or a vegetable?,specific_info,Eggplant is classified as a vegetable.
+What are the health benefits of eating Ridge Gourd or Sponge Gourd?,specific_info,Ridge Gourd or Sponge Gourd is rich in nutrients and offers various health benefits.
+How do I grow Ridge Gourd or Sponge Gourd at home?,specific_info,"To grow Ridge Gourd or Sponge Gourd, use Loamy/Sandy Loam soil, maintain a pH of 6.0-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Ridge Gourd or Sponge Gourd?,specific_info,"Ridge Gourd or Sponge Gourd can be used to make soups, stews, and salads."
+How do I know when Ridge Gourd or Sponge Gourd is ready to harvest?,specific_info,Ridge Gourd or Sponge Gourd is usually ready to harvest in 60-90 days.
+How many calories does Ridge Gourd or Sponge Gourd have per serving?,specific_info,Ridge Gourd or Sponge Gourd contains 20 calories per 100g.
+Is Ridge Gourd or Sponge Gourd considered a fruit or a vegetable?,specific_info,Ridge Gourd or Sponge Gourd is classified as a vegetable.
+What are the health benefits of eating Okra or Lady Finger?,specific_info,Okra or Lady Finger is rich in nutrients and offers various health benefits.
+How do I grow Okra or Lady Finger at home?,specific_info,"To grow Okra or Lady Finger, use Sandy Loam/Loamy soil soil, maintain a pH of 6.0-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Okra or Lady Finger?,specific_info,"Okra or Lady Finger can be used to make soups, stews, and salads."
+How do I know when Okra or Lady Finger is ready to harvest?,specific_info,Okra or Lady Finger is usually ready to harvest in 50-60 days.
+How many calories does Okra or Lady Finger have per serving?,specific_info,Okra or Lady Finger contains 33 calories per 100g.
+Is Okra or Lady Finger considered a fruit or a vegetable?,specific_info,Okra or Lady Finger is classified as a vegetable.
+What are the health benefits of eating Chinese Cabbage or Bok Choy?,specific_info,Chinese Cabbage or Bok Choy is rich in nutrients and offers various health benefits.
+How do I grow Chinese Cabbage or Bok Choy at home?,specific_info,"To grow Chinese Cabbage or Bok Choy, use Loamy soil soil, maintain a pH of 6.0-7.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Chinese Cabbage or Bok Choy?,specific_info,"Chinese Cabbage or Bok Choy can be used to make soups, stews, and salads."
+How do I know when Chinese Cabbage or Bok Choy is ready to harvest?,specific_info,Chinese Cabbage or Bok Choy is usually ready to harvest in 30-50 days.
+How many calories does Chinese Cabbage or Bok Choy have per serving?,specific_info,Chinese Cabbage or Bok Choy contains 13 calories per 100g.
+Is Chinese Cabbage or Bok Choy considered a fruit or a vegetable?,specific_info,Chinese Cabbage or Bok Choy is classified as a vegetable.
+What are the health benefits of eating Mustard Greens?,specific_info,Mustard Greens is rich in nutrients and offers various health benefits.
+How do I grow Mustard Greens at home?,specific_info,"To grow Mustard Greens, use Loamy soil soil, maintain a pH of 6.0-7.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Mustard Greens?,specific_info,"Mustard Greens can be used to make soups, stews, and salads."
+How do I know when Mustard Greens is ready to harvest?,specific_info,Mustard Greens is usually ready to harvest in 30-50 days.
+How many calories does Mustard Greens have per serving?,specific_info,Mustard Greens contains 27 calories per 100g.
+Is Mustard Greens considered a fruit or a vegetable?,specific_info,Mustard Greens is classified as a vegetable.
+What are the health benefits of eating Cucumber?,specific_info,Cucumber is rich in nutrients and offers various health benefits.
+How do I grow Cucumber at home?,specific_info,"To grow Cucumber, use Sandy Loam/Loamy soil soil, maintain a pH of 6.0-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Cucumber?,specific_info,"Cucumber can be used to make soups, stews, and salads."
+How do I know when Cucumber is ready to harvest?,specific_info,Cucumber is usually ready to harvest in 50-70 days.
+How many calories does Cucumber have per serving?,specific_info,Cucumber contains 16 calories per 100g.
+Is Cucumber considered a fruit or a vegetable?,specific_info,Cucumber is classified as a vegetable.
+What are the health benefits of eating Orange or Native Mandarin?,specific_info,Orange or Native Mandarin is rich in nutrients and offers various health benefits.
+How do I grow Orange or Native Mandarin at home?,specific_info,"To grow Orange or Native Mandarin, use Sandy Loam/ Clay Loam soil, maintain a pH of 6.0-7.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Orange or Native Mandarin?,specific_info,"Orange or Native Mandarin can be used to make soups, stews, and salads."
+How do I know when Orange or Native Mandarin is ready to harvest?,specific_info,Orange or Native Mandarin is usually ready to harvest in 240-365 days.
+How many calories does Orange or Native Mandarin have per serving?,specific_info,Orange or Native Mandarin contains 47 calories per 100g.
+Is Orange or Native Mandarin considered a fruit or a vegetable?,specific_info,Orange or Native Mandarin is classified as a fruit.
+What are the health benefits of eating Langsat or Lanzones?,specific_info,Langsat or Lanzones is rich in nutrients and offers various health benefits.
+How do I grow Langsat or Lanzones at home?,specific_info,"To grow Langsat or Lanzones, use Loamy/Sandy soils soil, maintain a pH of 5.5-6.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Langsat or Lanzones?,specific_info,"Langsat or Lanzones can be used to make soups, stews, and salads."
+How do I know when Langsat or Lanzones is ready to harvest?,specific_info,Langsat or Lanzones is usually ready to harvest in 1825-2555 days.
+How many calories does Langsat or Lanzones have per serving?,specific_info,Langsat or Lanzones contains 73 calories per 100g.
+Is Langsat or Lanzones considered a fruit or a vegetable?,specific_info,Langsat or Lanzones is classified as a fruit.
+What are the health benefits of eating Calamondin or Philippine Lime?,specific_info,Calamondin or Philippine Lime is rich in nutrients and offers various health benefits.
+How do I grow Calamondin or Philippine Lime at home?,specific_info,"To grow Calamondin or Philippine Lime, use Sandy Loam/ Clay Loam soil, maintain a pH of 5.5-6.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Calamondin or Philippine Lime?,specific_info,"Calamondin or Philippine Lime can be used to make soups, stews, and salads."
+How do I know when Calamondin or Philippine Lime is ready to harvest?,specific_info,Calamondin or Philippine Lime is usually ready to harvest in 730-1095 days.
+How many calories does Calamondin or Philippine Lime have per serving?,specific_info,Calamondin or Philippine Lime contains 30 calories per 100g.
+Is Calamondin or Philippine Lime considered a fruit or a vegetable?,specific_info,Calamondin or Philippine Lime is classified as a fruit.
+What are the health benefits of eating Rambutan?,specific_info,Rambutan is rich in nutrients and offers various health benefits.
+How do I grow Rambutan at home?,specific_info,"To grow Rambutan, use Sandy Loam/ Clay Loam soil, maintain a pH of 5.5-6.5, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Rambutan?,specific_info,"Rambutan can be used to make soups, stews, and salads."
+How do I know when Rambutan is ready to harvest?,specific_info,Rambutan is usually ready to harvest in 1825-2555 days.
+How many calories does Rambutan have per serving?,specific_info,Rambutan contains 68 calories per 100g.
+Is Rambutan considered a fruit or a vegetable?,specific_info,Rambutan is classified as a fruit.
+What are the health benefits of eating Banana?,specific_info,Banana is rich in nutrients and offers various health benefits.
+How do I grow Banana at home?,specific_info,"To grow Banana, use Loamy/Sandy Loam soil, maintain a pH of 5.5-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Banana?,specific_info,"Banana can be used to make soups, stews, and salads."
+How do I know when Banana is ready to harvest?,specific_info,Banana is usually ready to harvest in 270-365 days.
+How many calories does Banana have per serving?,specific_info,Banana contains 89 calories per 100g.
+Is Banana considered a fruit or a vegetable?,specific_info,Banana is classified as a fruit.
+What are the health benefits of eating Mango?,specific_info,Mango is rich in nutrients and offers various health benefits.
+How do I grow Mango at home?,specific_info,"To grow Mango, use Sandy Loam/ Clay Loam soil, maintain a pH of 5.5-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Mango?,specific_info,"Mango can be used to make soups, stews, and salads."
+How do I know when Mango is ready to harvest?,specific_info,Mango is usually ready to harvest in 1095-1825 days.
+How many calories does Mango have per serving?,specific_info,Mango contains 60 calories per 100g.
+Is Mango considered a fruit or a vegetable?,specific_info,Mango is classified as a fruit.
+What are the health benefits of eating Coffee?,specific_info,Coffee is rich in nutrients and offers various health benefits.
+How do I grow Coffee at home?,specific_info,"To grow Coffee, use Loamy/Volcanic soils soil, maintain a pH of 6.0-6.5, and ensure Partial Sun sunlight exposure."
+What dishes can I cook with Coffee?,specific_info,"Coffee can be used to make soups, stews, and salads."
+How do I know when Coffee is ready to harvest?,specific_info,Coffee is usually ready to harvest in 1095-1460 days.
+How many calories does Coffee have per serving?,specific_info,Coffee contains 2 calories per 100g.
+Is Coffee considered a fruit or a vegetable?,specific_info,Coffee is classified as a fruit.
+What are the health benefits of eating Cassava?,specific_info,Cassava is rich in nutrients and offers various health benefits.
+How do I grow Cassava at home?,specific_info,"To grow Cassava, use Sandy Loam/ Clayey soils soil, maintain a pH of 5.5-7.0, and ensure Full Sun sunlight exposure."
+What dishes can I cook with Cassava?,specific_info,"Cassava can be used to make soups, stews, and salads."
+How do I know when Cassava is ready to harvest?,specific_info,Cassava is usually ready to harvest in 240-720 days.
+How many calories does Cassava have per serving?,specific_info,Cassava contains 160 calories per 100g.
+Is Cassava considered a fruit or a vegetable?,specific_info,Cassava is classified as a vegetable.
+Can you tell me how to plant Bitter Melon or Bitter Gourd?,how_to_plant_info,"To plant Bitter Melon or Bitter Gourd, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Tomato?,how_to_plant_info,"To plant Tomato, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Squash?,how_to_plant_info,"To plant Squash, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Bottle Gourd?,how_to_plant_info,"To plant Bottle Gourd, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Chili Pepper?,how_to_plant_info,"To plant Chili Pepper, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant String Bean or Yardlong Bean?,how_to_plant_info,"To plant String Bean or Yardlong Bean, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Eggplant?,how_to_plant_info,"To plant Eggplant, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Ridge Gourd or Sponge Gourd?,how_to_plant_info,"To plant Ridge Gourd or Sponge Gourd, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Okra or Lady Finger?,how_to_plant_info,"To plant Okra or Lady Finger, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Chinese Cabbage or Bok Choy?,how_to_plant_info,"To plant Chinese Cabbage or Bok Choy, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Mustard Greens?,how_to_plant_info,"To plant Mustard Greens, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Cucumber?,how_to_plant_info,"To plant Cucumber, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Orange or Native Mandarin?,how_to_plant_info,"To plant Orange or Native Mandarin, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Langsat or Lanzones?,how_to_plant_info,"To plant Langsat or Lanzones, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Calamondin or Philippine Lime?,how_to_plant_info,"To plant Calamondin or Philippine Lime, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Rambutan?,how_to_plant_info,"To plant Rambutan, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Banana?,how_to_plant_info,"To plant Banana, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Mango?,how_to_plant_info,"To plant Mango, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Coffee?,how_to_plant_info,"To plant Coffee, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant Cassava?,how_to_plant_info,"To plant Cassava, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Bitter Melon or Bitter Gourd?,how_to_plant_info,"To plant eating Bitter Melon or Bitter Gourd, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Tomato?,how_to_plant_info,"To plant eating Tomato, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Squash?,how_to_plant_info,"To plant eating Squash, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Bottle Gourd?,how_to_plant_info,"To plant eating Bottle Gourd, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Chili Pepper?,how_to_plant_info,"To plant eating Chili Pepper, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating String Bean or Yardlong Bean?,how_to_plant_info,"To plant eating String Bean or Yardlong Bean, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Eggplant?,how_to_plant_info,"To plant eating Eggplant, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Ridge Gourd or Sponge Gourd?,how_to_plant_info,"To plant eating Ridge Gourd or Sponge Gourd, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Okra or Lady Finger?,how_to_plant_info,"To plant eating Okra or Lady Finger, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Chinese Cabbage or Bok Choy?,how_to_plant_info,"To plant eating Chinese Cabbage or Bok Choy, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Mustard Greens?,how_to_plant_info,"To plant eating Mustard Greens, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Cucumber?,how_to_plant_info,"To plant eating Cucumber, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Orange or Native Mandarin?,how_to_plant_info,"To plant eating Orange or Native Mandarin, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Langsat or Lanzones?,how_to_plant_info,"To plant eating Langsat or Lanzones, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Calamondin or Philippine Lime?,how_to_plant_info,"To plant eating Calamondin or Philippine Lime, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Rambutan?,how_to_plant_info,"To plant eating Rambutan, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Banana?,how_to_plant_info,"To plant eating Banana, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Mango?,how_to_plant_info,"To plant eating Mango, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Coffee?,how_to_plant_info,"To plant eating Coffee, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Can you tell me how to plant eating Cassava?,how_to_plant_info,"To plant eating Cassava, prepare the soil by loosening it, add compost, and sow the seeds or seedlings at the recommended depth and spacing. Water regularly and ensure proper sunlight."
+Hi,greeting_info,"Hello, Im AgriBuddy, How can I help u?"
+Hello,greeting_info,"Hello, Im AgriBuddy, How can I help u?"
+Can u help me how to plant?,greeting_info,"Sure, What fruits or vegetables do u prefer to plant?"
